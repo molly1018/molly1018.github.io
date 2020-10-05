@@ -99,7 +99,7 @@ layout: home
 
 * **硬件技能**
     * 电路仿真与设计：Multisim, Altium Designer
-    * MCU开发：Keil for 89C51, IAR for MSP430
+    * MCU开发：Keil, IAR
 
 
 * **英语**
