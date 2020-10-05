@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 个人简历
 ---
 
 # 教育经历
