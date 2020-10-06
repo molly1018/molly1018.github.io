@@ -17,7 +17,7 @@
         </label>
 
         {%- if site.email -%}
-        <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
         {%- endif -%}
         <!-- <div class="trigger">
           {%- for path in page_paths -%}
