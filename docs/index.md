@@ -5,7 +5,7 @@ title: 个人简历
 
 # 教育经历
 
-| 悉尼大学 | 国家公派联合培养 | 生物医学工程 | 2019.10 ~ 至今 |  
+| 悉尼大学 | 公派联培 | 生物医学工程 | 2019.10 ~ 至今 |  
 | 天津大学 | 工学博士 | 控制科学与工程（模式识别与智能系统方向） | 2017.09 ~ 至今 |  
 | 天津大学 | 工学硕士 | 控制科学与工程（模式识别与智能系统方向） | 2015.09 ~ 2017.08 |  
 | 天津科技大学 | 工学学士 | 电子信息工程 | 2011.09 ~ 2015.06 |  
@@ -13,7 +13,7 @@ title: 个人简历
 # 学术成果  
 ## 论文
 1. **Wang, Z**, Yue, S, Song, K, et al. “An Unsupervised Method for Evaluating Electrical Impedance Tomography Images”, IEEE Transactions on Instrumentation and Measurement. 2018, 67(12): 2796-2803. (SCI 一区top, DOI: 10.1109/TIM.2018.2831478)
-2. **Wang, Z**, Yue, S, Wang H, et al. “Data preprocessing methods for electrical impedance tomography: a review”, Physiological Measurement. 2020, online. (SCI 三区, DOI: 10.1088/1361-6579/abb142)
+2. **Wang, Z**, Yue, S, Wang H, et al. “Data preprocessing methods for electrical impedance tomography: a review”, Physiological Measurement. 2020, 4 09TR02. (SCI 三区, DOI: 10.1088/1361-6579/abb142)
 3. **Wang, Z**, Yue, S, Li, Q, et al. “Application of mirror image method in EIT to detect lung lesions”, Basic & Clinical Pharmacology & Toxicology. 2020. (SCI 三区, 录用)
 4. **Wang, Z**, Yue, S, Liu X, et al. “Estimating Homogeneous Reference Frame for Absolute Electrical Impedance Tomography through Measurements and Scale Feature”, IEEE Transactions on Instrumentation and Measurement. 2020. (SCI 一区top, 小修)
 5. **Wang, Z**, Yue, S and Liu, X. “An Iterative Linear Back-Projection Algorithm for Electrical Impedance Tomography” in the 2018 13th IEEE World Congress on Intelligent Control and Automation. July 2018, Changsha, China, 484-489. (EI, DOI: 10.1109/WCICA.2018.8630576)
@@ -45,7 +45,7 @@ title: 个人简历
 
 
 * **疏浚船载管道监测系统** 
-    * 2017.09 ~ 2019.10 项目成员，合作单位：中交天津港航勘察设计研究院合作  
+    * 2017.09 ~ 2019.10 项目成员，合作单位：中交天津港航勘察设计研究院  
     * 利用电学层析成像技术进行管道二维成像，基于模糊聚类方法与相关性分析计算泥沙的含率和速率。
     * 提出一种基于测量值幅值特征的参考场估计方法，解决了参考场数据不易测问题。
     * 发明一种利用无线通信的电学检测方法，申请相关专利，现均已授权。  
@@ -59,7 +59,7 @@ title: 个人简历
     * 2020.01 ~ 至今 项目成员，国家自然科学基金  
     * 利用电学层析成像技术对人体胸腔进行图像重建，研究肺部病变的检测与床旁监控问题。
     * 提出用于电学层析成像反投影算法的迭代形式，提升了反投影重建图像的分辨能力。
-    * 提出重建图像的无监督评价方法，解决了“黑盒”检测中内部结构未知情况下的评价问题。
+    * 提出重建图像的无监督评价方法，解决了“黑盒”检测的评价反馈问题。
     * 提出导电/非导电材料的定值混合方法，通过3D打印技术制作与先验人体电学特性一致的胸腔模型。
     * 发明一种吸附式电极系统，申请相关专利。  
 
@@ -67,18 +67,25 @@ title: 个人简历
 * **农作物生长监测系统设计**
     * 2015.10 ~ 2016.01 硕士课程设计  
     * 搭建MFC人机交互平台。该平台通过图像处理技术分析农作物生长状态。
-    * 基于该平台实现农作物生长图像参数的提取。  
+    * 基于该平台实现农作物生长图像参数的提取，反馈健康状况。  
 
 
 * **无线手势识别指环**	
     * 2014.10 ~ 2015. 05 项目负责人，国家大学生创新创业训练计划  
-    * 设计无线手势识别指环硬件系统，基于MSP430F169单片机进行编程。
+    * 制作无线手势识别指环硬件系统，设计制作硬件电路，基于MSP430F169单片机进行编程。
     * 对指环手势进行建模，设计分类器，进行手势分类与识别。
     * 带领团队参加“挑战杯”大学生课外学术竞赛，并申请相关专利。  
+    
+    
+* **基于磁导航的校园快递传送系统**
+    * 2013.10 ~ 2014. 05 主要项目成员，校实验室开放基金项目
+    * 设计磁导航循迹车，通过检测交变电流产生的电磁场进行快递车循迹智能行驶。
+    * 设计硬件电路，制作车体模型结构，编写上位机。
+
 
 # 奖励与荣誉  
+* 天津大学在读期间连续获得学业奖学金(2020)
 * IEEE国际仪表与测量技术会议（I2MTC）Student Travel Grant(2019)
-* 天津大学在读期间连续获得学业奖学金(2019)
 * 天津大学科技创新先进个人(2018)
 * 天津大学国际交流先进个人(2018)
 * 全国研究生数学建模竞赛三等奖(2016)
@@ -92,8 +99,8 @@ title: 个人简历
 * “飞思卡尔”杯智能车竞赛华北赛区三等奖(2013)
 
 # 专业技能
-* **专业课程**
-    * 生物电阻抗成像
+* **概述**
+    * 电阻抗成像（EIT）
     * 数据挖掘
     * 图像处理
 
@@ -104,13 +111,22 @@ title: 个人简历
 
 
 * **英语**
-    * IELTS 7.0，具有较好听说读写能力。
+    * IELTS 7.0，具有较高听说读写能力。
 
 
 * **软件技能**
     * 计算机语言：C/C++, Python
     * 仿真建模：MATLAB, AutoCAD, LabVIEW, COMSOL Multiphysics
 
+# 主修专业课
+* 模拟/数字电路
+* 自动控制原理
+* 电路
+* 信号与系统
+* 线性控制系统
+* 计算机视觉
+* 模式识别
+* 人工智能及应用
 
 # 学术会议
 * **IEEE国际仪表与测量技术会议（I2MTC）**	
