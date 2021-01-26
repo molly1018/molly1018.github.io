@@ -12,17 +12,17 @@ title: 个人简历
 
 # 学术成果  
 ## 论文
-1. **Wang, Z**, Yue, S, Song, K, et al. “An Unsupervised Method for Evaluating Electrical Impedance Tomography Images”, IEEE Transactions on Instrumentation and Measurement. 2018, 67(12): 2796-2803. (SCI 一区top, DOI: 10.1109/TIM.2018.2831478)
-2. **Wang, Z**, Yue, S, Wang H, et al. “Data preprocessing methods for electrical impedance tomography: a review”, Physiological Measurement. 2020, 4 09TR02. (SCI 三区, DOI: 10.1088/1361-6579/abb142)
-3. **Wang, Z**, Yue, S, Li, Q, et al. “Application of mirror image method in EIT to detect lung lesions”, Basic & Clinical Pharmacology & Toxicology. 2020. (SCI 三区, 录用)
-4. **Wang, Z**, Yue, S, Liu X, et al. “Estimating Homogeneous Reference Frame for Absolute Electrical Impedance Tomography through Measurements and Scale Feature”, IEEE Transactions on Instrumentation and Measurement. 2020. (SCI 一区top, 录用)
+1. **Wang, Z**, Yue, S, Song, K, et al. “An Unsupervised Method for Evaluating Electrical Impedance Tomography Images”, IEEE Transactions on Instrumentation and Measurement. 2018, 67(12): 2796-2803. (SCI, DOI: 10.1109/TIM.2018.2831478)
+2. **Wang, Z**, Yue, S, Wang H, et al. “Data preprocessing methods for electrical impedance tomography: a review”, Physiological Measurement. 2020, 4 09TR02. (SCI, DOI: 10.1088/1361-6579/abb142)
+3. **Wang, Z**, Yue, S, Li, Q, et al. “Application of mirror image method in EIT to detect lung lesions”, Basic & Clinical Pharmacology & Toxicology. 2020. (SCI)
+4. **Wang, Z**, Yue, S, Liu X, et al. “Estimating Homogeneous Reference Frame for Absolute Electrical Impedance Tomography through Measurements and Scale Feature”, IEEE Transactions on Instrumentation and Measurement. 2021, 70(1): 1-12. (SCI, DOI: 10.1109/TIM.2020.3036076)
 5. **Wang, Z**, Yue, S and Liu, X. “An Iterative Linear Back-Projection Algorithm for Electrical Impedance Tomography” in the 2018 13th IEEE World Congress on Intelligent Control and Automation. July 2018, Changsha, China, 484-489. (EI, DOI: 10.1109/WCICA.2018.8630576)
 6. **Wang, Z**, Yue, S, Liu, X, et al. “A Method for Absolute Electrical Impedance Tomography without Measuring Reference Voltages” in the 2019 IEEE International Instrumentation & Measurement Technology Conference. May 2019, Auckland, New Zealand. (EI, DOI: 10.1109/I2MTC.2019.8826809)
 7. Liu, X, **Wang, Z**, Hao, Z, et al. “An Adaptive Method of the Reference Field for Electrical Impedance Tomography” in the 2018 13th IEEE World Congress on Intelligent Control and Automation. July 2018, Changsha, China, 1786-1791. (EI, DOI: 10.1109/WCICA.2018.8630750)
 8. 刘笑远, **王泽莹**，岳士弘. “基于准静态场的新型灵敏度系数计算方法”. 南京大学学报（自然科学版）, 2018, 54(3): 571-579. (CSCD, DOI: 10.13232/j.cnki.jnju.2018.03.012)
 9. Yang, L, Yue, S, **Wang, Z**, et al. (2019) “3D Printed Chest Models with Realistic Shape and Electrical Property for Electrical Impedance Tomography” in the 2019 IEEE International Instrumentation & Measurement Technology Conference. May 2019, Auckland, New Zealand. (EI, DOI: 10.1109/I2MTC.2019.8826914)
 10. Liu, X, Yue, S and **Wang, Z**. “A New Design of Electrical Impedance Tomography Sensor System for Pulmonary Disease Diagnosis”. Journal of Systems Science and Information. 2018, 6(5): 473-480. (CSCD, DOI: 10.21078/JSSI-2018-473-08)
-11.	**Wang, Z**, A McEwen, Yue, S, et al. “Evaluation of Image Quality and Parameter Optimization for Electrical Impedance Tomography” (撰写)
+11.	**Wang, Z**, Yue, S, et al. “Direct Evaluation of Image Quality in Electrical Impedance Tomography” (已投)
 
 ## 专利  
 1. **王泽莹**，岳士弘，刘笑远. 一种中心供电式电阻抗成像电极系统的控制方法，发明专利，CN109030572B （授权）
