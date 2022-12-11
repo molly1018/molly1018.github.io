@@ -10,14 +10,19 @@ title: 个人简历
 
 
 # 工作经历
+   
+|   |   |   |   |
+| :-----: | :-----: | :-----: | :----: |
+| 上海理工大学 | 讲师 | 机械工程学院 |  2022.07 ~ 至今 |
 
-| 上海理工大学 | 讲师 | 机械工程学院 | 2022.07 ~ 至今 |
 
 
 
 # 教育经历
 
-| 悉尼大学 | 公派访学 | 生物医学工程 | 2019.10 ~ 2022.04 |  
+|   |   |   |   |
+| :-----: | :-----: | :-----: | :----: |
+| 悉尼大学 | 公派访学 | 生物医学工程 | 2019.10 ~ 2022.04 |    
 | 天津大学 | 工学博士 | 控制科学与工程（模式识别与智能系统方向） | 2017.09 ~ 2022.07 |  
 | 天津大学 | 工学硕士 | 控制科学与工程（模式识别与智能系统方向） | 2015.09 ~ 2017.08 |  
 | 天津科技大学 | 工学学士 | 电子信息工程 | 2011.09 ~ 2015.06 |  
@@ -27,7 +32,7 @@ title: 个人简历
 ## 论文
 1. **Wang, Z**, Yue, S, Song, K, et al. “An Unsupervised Method for Evaluating Electrical Impedance Tomography Images”, IEEE Transactions on Instrumentation and Measurement. 2018, 67(12): 2796-2803. (SCI, DOI: 10.1109/TIM.2018.2831478)
 2. **Wang, Z**, Yue, S, Wang H, et al. “Data preprocessing methods for electrical impedance tomography: a review”, Physiological Measurement. 2020, 4 09TR02. (SCI, DOI: 10.1088/1361-6579/abb142)
-3. **Wang, Z**, Yue, S, Li, Q, et al. “Application of mirror image method in EIT to detect lung lesions”, Basic & Clinical Pharmacology & Toxicology. 2020. (SCI)
+3. **Wang, Z**, Yue, S, Li, Q, et al. “Application of mirror image method in EIT to detect lung lesions”, Basic & Clinical Pharmacology & Toxicology. 2020. (SCI, DOI: 10.1111/bcpt.13506)
 4. **Wang, Z**, Yue, S, Liu X, et al. “Estimating Homogeneous Reference Frame for Absolute Electrical Impedance Tomography through Measurements and Scale Feature”, IEEE Transactions on Instrumentation and Measurement. 2021, 70: 1002812. (SCI, DOI: 10.1109/TIM.2020.3036076)
 5. **Wang Z**, Yue S, Li Q, et al. “Unsupervised Evaluation and Optimization for Electrical Impedance Tomography”, IEEE Transactions on Instrumentation and Measurement. 2021,70: 4506312. (SCI, DOI: 10.1109/TIM.2021.3105245)
 6. **Wang, Z**, Yue, S and Liu, X. “An Iterative Linear Back-Projection Algorithm for Electrical Impedance Tomography” in the 2018 13th IEEE World Congress on Intelligent Control and Automation. July 2018, Changsha, China, 484-489. (EI, DOI: 10.1109/WCICA.2018.8630576)
@@ -75,7 +80,7 @@ title: 个人简历
 
 * **肺癌诊断与监测的电学层析新技术**
     * 2016.10 ~ 2019.12 参与，国家自然科学基金面上项目
-  **基于电学特征的肺癌疾病发现与演进研究**  
+* **基于电学特征的肺癌疾病发现与演进研究**  
     * 2020.01 ~ 至今 参与，国家自然科学基金面上项目
     * 利用电学层析成像技术对人体胸腔进行图像重建，研究肺部病变的检测与床旁监控问题。
     * 提出用于电学层析成像反投影算法的迭代形式，提升了反投影重建图像的分辨能力。
